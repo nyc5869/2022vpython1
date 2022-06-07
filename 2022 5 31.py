@@ -1,1 +1,1 @@
-print ('ㅁ')
+print ('ㅁrff')
